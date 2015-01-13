@@ -1,0 +1,13 @@
+{
+    commands: {
+        EasyMotion: {
+            scriptUrl: "./easymotion.js"
+        }
+    },
+    keys: {
+      EasyMotion: {
+        mac: "Command-X",
+        win: "Ctrl-X"
+      }
+    }
+}
